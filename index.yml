@@ -8,5 +8,10 @@ contacts:
   - displayName: JaqRus123
     pictureUrl: https://avatars.githubusercontent.com/u/220795560?v=4
     homePageUrl: https://github.com/JaqRus123
+files:
+  - path: course1/main.py
+    content: "# Global code file"
+  - path: course1/unit1/lesson1/lessonpart1/newFile.py
+    content: "# Code file for only this page"
 units:
   - unit1/index.yml
